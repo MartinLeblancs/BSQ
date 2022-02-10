@@ -1,0 +1,17 @@
+int main()
+{
+    char array[] = "9752";
+
+    my_sort_int_array(array, 4);
+    my_putstr(array);
+}
+
+
+
+
+
+
+
+
+
+
